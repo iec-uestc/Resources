@@ -29,6 +29,7 @@
 + [HomeBrew](http://brew.sh/index_zh-cn.html)
 + [Dash](http://kapeli.com/dash)
 + [Jekyll](http://jekyllrb.com/)
++ [Pip](https://pip.pypa.io/en/latest/index.html)
 
 
 ###Linux工具
